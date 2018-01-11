@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /**
  *  Class index
  */
-class C_index extends AnotherClass
+class C_index extends CI_Controller
 {
 
   function __construct()
@@ -14,7 +14,7 @@ class C_index extends AnotherClass
 
   public function index()
   {
-    $this->load->view('welcome_message');
+    $this->load->view('V_index');
   }
 }
 
