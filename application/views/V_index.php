@@ -13,10 +13,10 @@
   <header id="home">
     <div id="home-slider" class="carousel slide carousel-fade" data-ride="carousel">
       <div class="carousel-inner">
-        <div class="item active" style="background-image: url(<?php echo base_url(); ?>template/images/slider/1.jpg)">
+        <div class="item active" style="background-image: url(<?php echo base_url(); ?>template/images/slider/1a.jpg)">
           <div class="caption">
             <h1 class="animated fadeInLeftBig">FESTIVAL LAWEYAN <span>2018</span></h1>
-            <h2 class="animated fadeInLeftBig" id="countdown"></h2>
+            <h2 class="animated fadeInLeftBig">Edukasi & Eksibisi</h2>
             <a data-scroll class="btn btn-start animated fadeInUpBig" href="#services">Selengkapnya</a>
           </div>
         </div>
@@ -33,7 +33,7 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="<?php echo base_url(); ?>">
-            <h1><img class="img-responsive" src="<?php echo base_url(); ?>template/images/logo.png" alt="logo"></h1>
+            <h1><img class="img-responsive" src="<?php echo base_url(); ?>template/images/kecil.png" alt="logo"></h1>
           </a>
         </div>
         <div class="collapse navbar-collapse">
@@ -42,7 +42,7 @@
             <li class="scroll"><a href="#services">Kegiatan</a></li>
             <li class="scroll"><a href="#about-us">Tentang</a></li>
             <li class="scroll"><a href="#portfolio">Galeri</a></li>
-            <li class="scroll"><a href="#blog">Berita</a></li>
+            <li class="scroll"><a href="#contact">Kontak</a></li>
           </ul>
         </div>
       </div>
@@ -55,70 +55,179 @@
         <div class="row">
           <div class="text-center col-sm-8 col-sm-offset-2">
             <h2>Kegiatan</h2>
-            <p>Event Festival Laweyan 2018 tahun ini memiliki beberapa macam kegiatan dengan tema <b>"Edukasi dan Eksibisi"</b></p>
+            <p>Festival Laweyan 2018 ini akan dilaksanakan mulai tanggal 1 Juli hingga 3 Oktober 2018 bertempat di Kampoeng Batik Laweyan, Surakarta, dengan tema <b>"Edukasi dan Eksibisi"</b></p>
           </div>
         </div>
       </div>
       <div class="text-center our-services">
         <div class="row">
-          <!-- Opening Ceremony -->
+          <!-- Cipta Kreasi -->
           <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-            <div class="service-icon">
-              <i class="fa fa-flask"></i>
-            </div>
+            <a href="<?php echo site_url("C_CiptaKreasi");?>">
+              <div class="service-icon">
+                <i class="fa fa-gift"></i>
+              </div>
+            </a>
             <div class="service-info">
-              <h3>Opening Ceremony</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+              <h3>Cipta Kreasi Cinderamata Laweyan</h3>
+              <p><i>1 Juli s.d. 15 September 2018</i></p>
+              <p>Merupakan salah satu kegiatan edukasi pengembangan pemberdayaan kreatif warga Laweyan, yaitu berupa Lomba Cipta Cinderamata Khas Kampoeng Batik Laweyan.</p>
             </div>
           </div>
-          <!-- Selawenan -->
+          <!-- Batik Ketitik -->
           <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="450ms">
-            <div class="service-icon">
-              <i class="fa fa-umbrella"></i>
-            </div>
+            <a href="<?php echo site_url("C_BatikKetitik");?>">
+              <div class="service-icon">
+                <i class="fa fa-star"></i>
+              </div>
+            </a>
             <div class="service-info">
-              <h3>Selawenan</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+              <h3>Batik Ketitik Laweyan Kuncoro</h3>
+              <p><i>1 Juli s.d. 15 September 2018</i></p>
+              <p>Merupakan salah satu kegiatan edukasi pengembangan pemberdayaan kreatif warga Laweyan, yaitu berupa Lomba Cipta Kreatif Desain Motif Batik Tulis dan Batik Cap Khas Kampoeng Batik Laweyan.</p>
             </div>
           </div>
-          <!-- Pameran Batik -->
+          <!-- Laweyan Resik -->
           <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="550ms">
-            <div class="service-icon">
-              <i class="fa fa-cloud"></i>
-            </div>
+            <a href="<?php echo site_url("C_ResikNyenengke");?>">
+              <div class="service-icon">
+                <i class="fa fa-trash"></i>
+              </div>
+            </a>
             <div class="service-info">
-              <h3>Pameran Batik</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+              <h3>Laweyan Resik Laweyan Nyenengke</h3>
+              <p><i>1 Agustus s.d. 30 September 2018</i></p>
+              <p>Kegiatan ini merupakan salah satu kegiatan edukasi pengembangan pemberdayaan kreatif warga Laweyan, yaitu berupa Lomba Tata Hias Lingkungan Kampoeng Batik Laweyan.</p>
             </div>
           </div>
-          <!-- Belajar Membatik Bersama -->
+          <!-- Miphik -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="650ms">
-            <div class="service-icon">
-              <i class="fa fa-coffee"></i>
-            </div>
+            <a href="<?php echo site_url("C_MiphikLaweyan");?>">
+              <div class="service-icon">
+                <i class="fa fa-shopping-cart"></i>
+              </div>
+            </a>
             <div class="service-info">
-              <h3>Belajar Membatik Bersama</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+              <h3>Miphik Nyang Laweyan</h3>
+              <p><i>1 September s.d. 3 Oktober 2018</i></p>
+              <p>Merupakan bentuk apresiasi kepada wisatawan/pelanggan Kampoeng Batik Laweyan dengan pemberian voucher belanja produk batik di toko/showroom Kampoeng Batik Laweyan.</p>
             </div>
           </div>
-          <!-- Jalan Sehat -->
+          <!-- Nyanthing Nyenengke -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="750ms">
-            <div class="service-icon">
-              <i class="fa fa-bitbucket"></i>
-            </div>
+            <a href="<?php echo site_url("C_NyanthingNyenengke");?>">
+              <div class="service-icon">
+                <i class="fa fa-pencil"></i>
+              </div>
+            </a>
             <div class="service-info">
-              <h3>Jalan Sehat</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+              <h3>Nyanthing Kuwi Nyenengke</h3>
+              <p><i>1 September s.d. 3 Oktober 2018</i></p>
+              <p>Merupakan salah satu kegiatan edukasi pengenalan cara membuat kain batik kepada masyarakat umum seperti komunitas, organisasi, perusahaan, sekolah, dll secara berkelompok.</p>
             </div>
           </div>
-          <!-- Closing Ceremony -->
+          <!-- Kawah Condrodimuko -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="850ms">
-            <div class="service-icon">
-              <i class="fa fa-gift"></i>
-            </div>
+            <a href="<?php echo site_url("C_KawahCondrodimuko");?>">
+              <div class="service-icon">
+                <i class="fa fa-music"></i>
+              </div>
+            </a>
             <div class="service-info">
-              <h3>Closing Ceremony</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+              <h3>Kawah Condrodimuko</h3>
+              <p><i>25 September 2018</i></p>
+              <p>Merupakan acara Opening Ceremony Festival Laweyan 2018 yang akan menampilkan pertunjukan kolosal kolaborasi teatrikal tari, musik etnik serta batik perform.</p>
+            </div>
+          </div>
+          <!-- Lensa Laweyan -->
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="950ms">
+            <a href="<?php echo site_url("C_LensaLaweyan");?>">
+              <div class="service-icon">
+                <i class="fa fa-image"></i>
+              </div>
+            </a>
+            <div class="service-info">
+              <h3>Lensa Laweyan</h3>
+              <p><i>25 September s.d. 3 Oktober 2018</i></p>
+              <p>Merupakan kegiatan pameran foto tentang Laweyan tempo dulu sampai sekarang. Pameran foto ini digelar di sepanjang gang-gang kecil dengan dibatasi tembok tinggi yang merupakan lanscape khas perumahan di Kampoeng Batik Laweyan.</p>
+            </div>
+          </div>
+          <!-- Rolasan Bareng Laweyan Wareg -->
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1000ms">
+            <a href="<?php echo site_url("C_RolasanWareg");?>">
+              <div class="service-icon">
+                <i class="fa fa-cutlery"></i>
+              </div>
+            </a>
+            <div class="service-info">
+              <h3>Rolasan Bareng Laweyan Wareg</h3>
+              <p><i>26 September 2018</i></p>
+              <p>Merupakan perwujudan manunggal Pemerintah, Pengusaha, Pekerja dan Warga serta para tamu undangan Kampoeng Batik Laweyan dalam bentuk makan siang bersama di sepanjang jalan Sidoluhur yang merupakan jalan utama Laweyan.</p>
+            </div>
+          </div>
+          <!-- Jagongan Laweyan -->
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1150ms">
+            <a href="<?php echo site_url("C_JagonganLaweyan");?>">
+              <div class="service-icon">
+                <i class="fa fa-microphone"></i>
+              </div>
+            </a>
+            <div class="service-info">
+              <h3>Jagongan Laweyan</h3>
+              <p><i>27 September 2018</i></p>
+              <p>Merupakan kegiatan sarasehan warga yang menjadi media sumbang saran bagi warga masyarakat terhadap Pemerintah Kelurahan Laweyan terkait isu-isu pelaksanaan dan perencanaan pembangunan Kelurahan Laweyan sekarang dan yang akan datang.</p>
+            </div>
+          </div>
+          <!-- Fashion -->
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1250ms">
+            <a href="<?php echo site_url("C_FashionStreet");?>">
+              <div class="service-icon">
+                <i class="fa fa-road"></i>
+              </div>
+            </a>
+            <div class="service-info">
+              <h3>Fashion on the Street at Night</h3>
+              <p><i>29 September 2018</i></p>
+              <p>Merupakan kegiatan Peragaan Busana Batik Muslimah yang dilaksanakan di Jalan Sidoluhur dengan menampilkan 500 peragawati terbanyak sebagai upaya pembuatan/pemecahan rekor MURI.</p>
+            </div>
+          </div>
+          <!-- Laweyan Waras -->
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1350ms">
+            <a href="<?php echo site_url("C_LaweyanWaras");?>">
+              <div class="service-icon">
+                <i class="fa fa-heartbeat"></i>
+              </div>
+            </a>
+            <div class="service-info">
+              <h3>Laweyan Waras</h3>
+              <p><i>30 September 2018</i></p>
+              <p>Merupakan kegiatan olah raga jalan sehat keluarga Laweyan dengan rute menyusuri jalan-jalan kecil diantara tembok tembok tinggi perumahan di Kampoeng Batik Laweyan.</p>
+            </div>
+          </div>
+          <!-- Dolanan Laweyan -->
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1450ms">
+            <a href="<?php echo site_url("C_DolananLaweyan");?>">
+              <div class="service-icon">
+                <i class="fa fa-futbol-o"></i>
+              </div>
+            </a>
+            <div class="service-info">
+              <h3>Dolanan Laweyan</h3>
+              <p><i>30 September 2018</i></p>
+              <p>Merupakan kegiatan festival yang diperuntukkan bagi anak-anak Laweyan. Dalam konsep dolanan, kegiatan ini akan menggali dan menghidupkan kembali beberapa permainan anak-anak tempo dulu.</p>
+            </div>
+          </div>
+          <!-- Laweyan Award -->
+          <div class="col-sm-12 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1550ms">
+            <a href="<?php echo site_url("C_LaweyanAward");?>">
+              <div class="service-icon">
+                <i class="fa fa-trophy"></i>
+              </div>
+            </a>
+            <div class="service-info">
+              <h3>Laweyan Award</h3>
+              <p><i>2 Oktober 2018</i></p>
+              <p>Merupakan kegiatan Closing Ceremony Festival Laweyan 2018 yang berisi penyerahan hadiah bagi  para pemenang Lomba dan penyerahan Laweyan Award dimana Laweyan Award ini merupakan bentuk apresiasi warga Laweyan kepada perorangan, Lembaga, Instansi Pemerintah yang telah berperan aktif dalam pengembangan Kelurahan Laweyan sebagai Kampoeng wisata Batik.</p>
             </div>
           </div>
         </div>
@@ -129,15 +238,22 @@
   <section id="about-us" class="parallax">
     <div class="container">
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-12">
           <div class="about-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
             <h2>Tentang Festival Laweyan</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.Ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           </div>
         </div>
         <div class="col-sm-6">
-
+          <div class="about-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+            <p>Laweyan merupakan salah satu kawasan wisata yang berada di Kota Solo. Dengan jargon Kampoeng Batik dan Kawasan Cagar Budaya,  Laweyan menjadi icon wisata Kota Solo yang telah dikenal hingga manca negara. Saat ini Kampoeng Laweyan telah ditetapkan sebagai salah satu objek vital Nasional bidang pariwisata melalui Keputusan Menteri Pariwisata No. KM.70/UM.001/MP/2016. Apresiasi pemerintah ini menjadi sebuah harapan sekaligus tantangan bagi Kelurahan Laweyan untuk menata kelola pembangunan dan pengembangan kawasan wisata Kampoeng Batik  Laweyan beserta seluruh potensinya, sehingga apresiasi ini akan memberikan dampak yang positif dan konstruktif bagi pengembangan lingkungan Laweyan secara keseluruhan.</p>
+            </p>Salah satu bentuk upaya bersama Pemerintah dan warga Kelurahan Laweyan untuk mendukung dan mengembangkan  potensi Laweyan ini adalah melalui penyelenggaraan kegiatan Festival Laweyan.</p>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="about-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+            <p>Festival Laweyan merupakan kegiatan kreatif seni budaya kearifan lokal Kelurahan Laweyan yang dilaksanakan setiap tahun. Selain untuk memperingati Hari Ulang Tahun Kampoeng Batik Laweyan serta Hari Batik Nasional, Festival ini juga ditujukan  sebagai upaya penguatan aset-aset pendukung wisata Kampoeng Batik Laweyan  khususnya di bidang kreatif, seni dan budaya.</p>
+            <p>Dalam Festival ini akan disajikan beberapa kegiatan kreatif unjuk potensi warga dan wilayah. Sebagai sebuah kawasan destinasi wisata, tentu saja Festival Laweyan ini tidak sekedar  “dipertontonkan” untuk warga Laweyan saja namun juga “diarahkan” untuk menjadi pintu masuk wisatawan sebanyak-banyaknya. Oleh karena itu, konsep berbagi peran dan kerja bersama akan menjadi landasan semangat kerja kreatif Festival kali ini. Pengembangan pemberdayaan kearifan lokal akan menjadi bagian terbesar dari keseluruhan rangkaian kegiatan.</p>
+          </div>
         </div>
       </div>
     </div>
@@ -163,12 +279,11 @@
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Time Hours</h3>
-                    <p>Design, Photography</p>
+                    <h3>Opening Ceremony</h3>
+                    <p>Bapak Walikota Surakarta, FX. Hadi Rudyatmo, sedang menyanting di kain mori sebagai penanda pembukaan Festival Laweyan 2017.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="<?php echo base_url(); ?>template/portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/1.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -184,12 +299,11 @@
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Time Hours</h3>
-                    <p>Design, Photography</p>
+                    <h3>Selawenan Sarasehan Budaya</h3>
+                    <p>Hasil karya persembahan dari pantomim.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="<?php echo base_url(); ?>template/portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/2.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -205,12 +319,11 @@
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Time Hours</h3>
-                    <p>Design, Photography</p>
+                    <h3>Membatik Bersama Walikota</h3>
+                    <p>Hasil karya membatik oleh Bapak Wakil Walikota Surakarta, Achmad Purnomo.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="<?php echo base_url(); ?>template/portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/3.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -226,12 +339,11 @@
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Time Hours</h3>
-                    <p>Design, Photography</p>
+                    <h3>Belajar Membatik</h3>
+                    <p>Ibu-ibu turut serta dalam belajar membatik bersama.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="<?php echo base_url(); ?>template/portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/4.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -247,12 +359,11 @@
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Time Hours</h3>
-                    <p>Design, Photography</p>
+                    <h3>Ngadi Busana Jawi</h3>
+                    <p>Pak Agus Efendi sedang memberikan pelatihan Ngadi Busana Jawi Ing Pahargyan.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="<?php echo base_url(); ?>template/portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/5.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -268,12 +379,11 @@
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Time Hours</h3>
-                    <p>Design, Photography</p>
+                    <h3>Jalan Sehat</h3>
+                    <p>Warga Laweyan dan sekitarnya berjalan bersama-sama menyusuri Kampoeng Batik Laweyan.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="<?php echo base_url(); ?>template/portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/6.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -289,12 +399,11 @@
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Time Hours</h3>
-                    <p>Design, Photography</p>
+                    <h3>Closing Ceremony</h3>
+                    <p>Batik Fashion digelar dengan memperkenalkan batik khas Kampoeng Batik Laweyan.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="<?php echo base_url(); ?>template/portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/7.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -310,12 +419,11 @@
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Time Hours</h3>
-                    <p>Design, Photography</p>
+                    <h3>Closing Ceremony</h3>
+                    <p>Menyoret abstrak sebagai upacara simbolis bahwa Festival Laweyan 2017 telah selesai.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="<?php echo base_url(); ?>template/portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/8.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -330,144 +438,69 @@
     </div><!-- /#portfolio-single-wrap -->
   </section><!--/#portfolio-->
 
-  <section id="features" class="parallax">
-    <div class="container">
-      <div class="row count">
-        <div class="col-sm-3 col-xs-6 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="300ms">
-          <i class="fa fa-user"></i>
-          <h3 class="timer">4000</h3>
-          <p>Happy Clients</p>
-        </div>
-        <div class="col-sm-3 col-xs-6 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
-          <i class="fa fa-desktop"></i>
-          <h3 class="timer">200</h3>
-          <p>Modern Websites</p>
-        </div>
-        <div class="col-sm-3 col-xs-6 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="700ms">
-          <i class="fa fa-trophy"></i>
-          <h3 class="timer">10</h3>
-          <p>WINNING AWARDS</p>
-        </div>
-        <div class="col-sm-3 col-xs-6 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="900ms">
-          <i class="fa fa-comment-o"></i>
-          <h3>24/7</h3>
-          <p>Fast Support</p>
-        </div>
-      </div>
-    </div>
-  </section><!--/#features-->
-
-  <section id="blog">
-    <div class="container">
-      <div class="row">
-        <div class="heading text-center col-sm-8 col-sm-offset-2 wow fadeInUp" data-wow-duration="1200ms" data-wow-delay="300ms">
-          <h2>Berita</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam</p>
-        </div>
-      </div>
-      <div class="blog-posts">
+  <section id="contact">
+    <div id="contact-us" class="parallax">
+      <div class="container">
         <div class="row">
-          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms">
-            <div class="post-thumb">
-              <a href="#"><img class="img-responsive" src="<?php echo base_url(); ?>template/images/blog/1.jpg" alt=""></a>
-              <div class="post-meta">
-                <span><i class="fa fa-comments-o"></i> 3 Comments</span>
-                <span><i class="fa fa-heart"></i> 0 Likes</span>
-              </div>
-              <div class="post-icon">
-                <i class="fa fa-pencil"></i>
-              </div>
-            </div>
-            <div class="entry-header">
-              <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
-              <span class="date">June 26, 2014</span>
-              <span class="cetagory">in <strong>Photography</strong></span>
-            </div>
-            <div class="entry-content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-            </div>
+          <div class="heading text-center col-sm-8 col-sm-offset-2 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+            <h2>Hubungi Kami</h2>
           </div>
-          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
-            <div class="post-thumb">
-              <div id="post-carousel"  class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                  <li data-target="#post-carousel" data-slide-to="0" class="active"></li>
-                  <li data-target="#post-carousel" data-slide-to="1"></li>
-                  <li data-target="#post-carousel" data-slide-to="2"></li>
-                </ol>
-                <div class="carousel-inner">
-                  <div class="item active">
-                    <a href="#"><img class="img-responsive" src="<?php echo base_url(); ?>template/images/blog/2.jpg" alt=""></a>
+        </div>
+        <div class="contact-form wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
+          <div class="row">
+            <div class="col-sm-6">
+              <form id="main-contact-form" name="contact-form" method="post" action="#">
+                <div class="row  wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+                  <div class="col-sm-6">
+                    <div class="form-group">
+                      <input type="text" name="name" class="form-control" placeholder="Name" required="required">
+                    </div>
                   </div>
-                  <div class="item">
-                    <a href="#"><img class="img-responsive" src="<?php echo base_url(); ?>template/images/blog/1.jpg" alt=""></a>
-                  </div>
-                  <div class="item">
-                    <a href="#"><img class="img-responsive" src="<?php echo base_url(); ?>template/images/blog/3.jpg" alt=""></a>
+                  <div class="col-sm-6">
+                    <div class="form-group">
+                      <input type="email" name="email" class="form-control" placeholder="Email Address" required="required">
+                    </div>
                   </div>
                 </div>
-                <a class="blog-left-control" href="#post-carousel" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
-                <a class="blog-right-control" href="#post-carousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
-              </div>
-              <div class="post-meta">
-                <span><i class="fa fa-comments-o"></i> 3 Comments</span>
-                <span><i class="fa fa-heart"></i> 0 Likes</span>
-              </div>
-              <div class="post-icon">
-                <i class="fa fa-picture-o"></i>
-              </div>
+                <div class="form-group">
+                  <input type="text" name="subject" class="form-control" placeholder="Subject" required="required">
+                </div>
+                <div class="form-group">
+                  <textarea name="message" id="message" class="form-control" rows="4" placeholder="Enter your message" required="required"></textarea>
+                </div>
+                <div class="form-group">
+                  <button type="submit" class="btn-submit">Send</button>
+                </div>
+              </form>
             </div>
-            <div class="entry-header">
-              <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
-              <span class="date">June 26, 2014</span>
-              <span class="cetagory">in <strong>Photography</strong></span>
-            </div>
-            <div class="entry-content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-            </div>
-          </div>
-          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
-            <div class="post-thumb">
-              <a href="#"><img class="img-responsive" src="<?php echo base_url(); ?>template/images/blog/3.jpg" alt=""></a>
-              <div class="post-meta">
-                <span><i class="fa fa-comments-o"></i> 3 Comments</span>
-                <span><i class="fa fa-heart"></i> 0 Likes</span>
+            <div class="col-sm-6">
+              <div class="contact-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+                <p>Untuk informasi yang lebih detail dapat menghubungi Sekretariat Panitia Festival Laweyan melalui:</p>
+                <ul class="address">
+                  <li><i class="fa fa-map-marker"></i> <span> Alamat:</span> Jl. Dr. Radjiman No.521, Laweyan, Surakarta Telp. (0271) 714348</li>
+                  <li><i class="fa fa-phone"></i> <span> Telepon:</span> +6281393024467 (Tom Festarandi) </li>
+                  <li><i class="fa fa-envelope"></i> <span> Email:</span><a href="mailto:festivallaweyan2018@gmail.com"> festivallaweyan2018@gmail.com</a></li>
+                  <li><i class="fa fa-globe"></i> <span> Website:</span> <a href="http://festivallaweyan.com/">festivallaweyan.com</a></li>
+                </ul>
               </div>
-              <div class="post-icon">
-                <i class="fa fa-video-camera"></i>
-              </div>
-            </div>
-            <div class="entry-header">
-              <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
-              <span class="date">June 26, 2014</span>
-              <span class="cetagory">in <strong>Photography</strong></span>
-            </div>
-            <div class="entry-content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
             </div>
           </div>
         </div>
-        <!-- <div class="load-more wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
-          <a href="#" class="btn-loadmore"><i class="fa fa-repeat"></i> Load More</a>
-        </div> -->
       </div>
-    </div>
-  </section><!--/#blog-->
+    </div
+  </section><!--/#map-->
 
   <footer id="footer">
     <div class="footer-top wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
       <div class="container text-center">
         <div class="footer-logo">
-          <a href="index.html"><img class="img-responsive" src="<?php echo base_url(); ?>template/images/logo.png" alt=""></a>
+          <a href=""><img class="img-responsive" src="<?php echo base_url(); ?>template/images/kecil.png" alt=""></a>
         </div>
         <div class="social-icons">
           <ul>
-            <li><a class="envelope" href="#"><i class="fa fa-envelope"></i></a></li>
-            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-            <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
-            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-            <li><a class="tumblr" href="#"><i class="fa fa-tumblr-square"></i></a></li>
+            <li><a class="envelope" href="mailto:festivallaweyan2018@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
+            <li><a class="facebook" target="_blank" href="https://www.facebook.com/festival.laweyan/"><i class="fa fa-facebook"></i></a></li>
+            <li><a class="instagram" target="_blank" href="https://www.instagram.com/festival.laweyan/"><i class="fa fa-instagram"></i></a></li>
           </ul>
         </div>
       </div>
@@ -479,7 +512,7 @@
             <p>&copy; 2018 - Festival Laweyan</p>
           </div>
           <div class="col-sm-6">
-            <p class="pull-right">Theme from <a href="http://www.themeum.com/" target="_blank">Themeum</a> - Developer by <a href="http://adamfahmil.my.id/" target="_blank">@adamfahmil96</a></p>
+            <p class="pull-right">Designed by <a href="http://www.themeum.com/" target="_blank">Themeum</a> - Modified by Panitia Festival Laweyan 2018</p>
           </div>
         </div>
       </div>
