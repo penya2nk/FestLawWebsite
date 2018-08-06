@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>1 Juli s.d. 15 September 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" width="450" src="<?php echo base_url(); ?>template/images/kegiatan/1-ciptakreasi.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Cipta Kreasi Cinderamata Laweyan adalah salah satu kegiatan edukasi pemberdayaan kreatif warga dalam rangkaian acara kegiatan Festival Laweyan 2018, berupa Lomba cipta cinderamata Laweyan. Sebagai salah satu kawasan wisata, pemenuhan salah satu unsur sapta pesona pariwisata menjadi sebuah kebutuhan yang harus dipenuhi. Oleh karena itu melalui kegiatan ini, Festival terutama warga muda Laweyan sebagai generasi penerus industri kreatif kerajinan tangan Laweyan untuk bersama-sama berkompetisi kreatif menuangkan idenya untuk menciptakan cinderamata kerajinan tangan khas Laweyan sebagai cipta identitas Kampoeng Batik Laweyan sebagai kawasan wisata.</p>

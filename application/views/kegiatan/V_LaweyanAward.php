@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>2 Oktober 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="<?php echo base_url(); ?>template/images/kegiatan/13-laweyanaward.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Merupakan kegiatan Closing Ceremony Festival Laweyan 2018. Dalam kegiatan ini selain penyerahan hadiah bagi  para pemenang Lomba juga akan dilakukan penyerahan Laweyan Award.</p>

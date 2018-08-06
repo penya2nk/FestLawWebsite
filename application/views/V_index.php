@@ -13,15 +13,10 @@
   <header id="home">
     <div id="home-slider" class="carousel slide carousel-fade" data-ride="carousel">
       <div class="carousel-inner">
-        <div class="item active" style="background-image: url(<?php echo base_url(); ?>template/images/slider/1a.jpg)">
-          <div class="caption">
-            <h1 class="animated fadeInLeftBig">FESTIVAL LAWEYAN <span>2018</span></h1>
-            <h2 class="animated fadeInLeftBig">Edukasi & Eksibisi</h2>
-            <a data-scroll class="btn btn-start animated fadeInUpBig" href="#services">Selengkapnya</a>
-          </div>
+        <div class="item active" style="background-image: url(<?php echo base_url(); ?>template/images/slider/slider-1.png)">
         </div>
       </div>
-      <a id="tohash" href="#services"><i class="fa fa-angle-down"></i></a>
+      <a id="tohash" href="#services"><i class="fa fa-angle-down" style="font-size:100px; color:#ef8522"></i></a>
     </div><!--/#home-slider-->
     <div class="main-nav">
       <div class="container">

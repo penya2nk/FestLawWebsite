@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>25 September s.d. 3 Oktober 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="<?php echo base_url(); ?>template/images/kegiatan/7-lensalaweyan.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Merupakan kegiatan pameran foto tentang Laweyan tempo dulu sampai sekarang. Pameran foto ini akan menjadi sajian yang unik bagi penikmat fotography serta wisatawan karena akan digelar disepanjang gang-gang kecil dengan dibatasi tembok tinggi yang merupakan lanscape khas perumahan di Kampoeng Batik Laweyan.</p>

@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>1 Juli s.d. 15 September 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" width="450" src="<?php echo base_url(); ?>template/images/kegiatan/2-batikketitik.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Batik Ketitik Laweyan Kuncoro adalah salah satu kegiatan edukasi pemberdayaan kreatif warga dalam rangkaian acara kegiatan Festival Laweyan 2018, berupa Lomba cipta kreatif desain motif batik khas Laweyan. Sebagai kawasan pengrajin dan industri batik, Kampoeng Batik Laweyan dituntut untuk selalu melahirkan ide kreatif baru khususnya penciptaan dan pengembangan motif-motif batik. Oleh karena itu melalui kegiatan ini, Festival Laweyan memberikan media ruang kreatif bagi para pengrajin, pelaku industri batik terutama warga muda Laweyan sebagai generasi penerus industri kreatif budaya untuk bersama-sama berkompetisi kreatif menuangkan idenya untuk terciptanya motif-motif baru Batik khas Laweyan sebagai cipta identitas Kampoeng Batik Laweyan serta mendukung upaya pelestarian budaya batik sebagai warisan budaya dunia asli Indonesia.</p>

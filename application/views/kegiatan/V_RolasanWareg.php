@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>26 September 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="<?php echo base_url(); ?>template/images/kegiatan/8-rolasanwareg.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Merupakan perwujudan manunggal Pemerintah, Pengusaha, Pekerja dan Warga serta para tamu undangan Kampoeng Batik Laweyan dalam bentuk makan siang bersama di sepanjang jalan Sidoluhur yang merupakan jalan utama Laweyan.</p>

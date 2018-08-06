@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>1 Agustus s.d. 2 Oktober 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" width="450" src="<?php echo base_url(); ?>template/images/kegiatan/3-resiknyenengke.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Laweyan Resik Laweyan Nyenengke merupakan salah satu kegiatan edukasi pemberdayaan kreatif warga masyarakat laweyan, berupa Lomba Tata Hias Lingkungan Kampoeng Batik Laweyan.  Sebagai sebuah kampung wisata, penataan lingkungan sebagai salah satu aspek sapta pesona pariwisata menjadi sebuah kebutuhan yang harus terpenuhi agar eksistensi Laweyan sebagai Kampung Wisata semakin terakui.</p>

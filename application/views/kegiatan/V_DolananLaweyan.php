@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>30 September 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="<?php echo base_url(); ?>template/images/kegiatan/12-dolananlaweyan.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Merupakan kegiatan festival yang diperuntukkan bagi anak-anak Laweyan. Dalam konsep dolanan, kegiatan ini akan menggali dan menghidupkan kembali beberapa permainan anak-anak tempo dulu.</p>

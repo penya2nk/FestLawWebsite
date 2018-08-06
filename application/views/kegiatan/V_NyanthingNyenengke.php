@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>1 September s.d. 3 Oktober 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="<?php echo base_url(); ?>template/images/kegiatan/5-nyanthingnyenengke.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Merupakan salah satu kegiatan edukasi pengenalan cara membuat kain batik kepada masyarakat umum secara berkelompok. Kegiatan ini akan ditujukan untuk Komunitas, Organisasi profesi/kemasyarakatan, Karyawan koorporasi swasta / BUMN, Sekolah, dll.</p>

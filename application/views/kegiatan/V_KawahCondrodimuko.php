@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>25 September 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="<?php echo base_url(); ?>template/images/kegiatan/6-kawahcondrodimuko.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Merupakan Tema acara Opening Ceremony Festival Laweyan 2018 yang pelaksanaannya bertepatan dengan HUT Kampoeng Batik Laweyan, yang akan menampilkan pertunjukan kolosal kolaborasi teatrikal tari, musik etnik serta batik perform.</p>

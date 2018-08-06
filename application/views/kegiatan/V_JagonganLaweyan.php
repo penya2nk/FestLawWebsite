@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>27 September 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="<?php echo base_url(); ?>template/images/kegiatan/9-jagonganlaweyan.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Merupakan kegiatan sarasehan warga yang menjadi media sumbang saran warga masyarakat terkait isu-isu pelaksanaan dan perencanaan pembangunan Kelurahan Laweyan sekarang dan yang akan datang. Kegiatan ini juga diharapkan menjadi sarana terbentuknya komunikasi partisipatif yang lebih efektif antar warga, organisasi masyarakat kelurahan serta Pemerintah Kelurahan Laweyan dan sebaliknya.</p>

@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>1 September s.d. 3 Oktober 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="<?php echo base_url(); ?>template/images/kegiatan/4-miphiklaweyan.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Merupakan bentuk apresiasi kepada wisatawan / pelanggan Kampoeng Batik Laweyan dengan pemberian voucher belanja produk batik di toko / showroom Kampoeng Batik Laweyan. Kegiatan ini akan berlangsung selama 1 (satu) bulan yang disetiap malam minggu akan ada special event night sale sampai jam 22.00 WIB.</p>

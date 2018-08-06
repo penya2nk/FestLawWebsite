@@ -41,7 +41,7 @@
         <p>Waktu Pelaksanaan: <i>30 September 2018</i></p>
         <hr>
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="http://placehold.it/900x300" alt="">
+        <img class="img-fluid rounded" src="<?php echo base_url(); ?>template/images/kegiatan/11-laweyanwaras.jpg" alt="">
         <hr>
         <!-- Post Content -->
         <p>Merupakan kegiatan olah raga jalan sehat keluarga Laweyan dengan rute menyusuri jalan-jalan kecil diantara tembok tembok tinggi perumahan di Kampoeng Batik Laweyan. Kegiatan akan dimulai dengan senam sehat bersama yang kemudian ditutup dengan panggung hiburan warga serta pembagian doorprize.</p>
