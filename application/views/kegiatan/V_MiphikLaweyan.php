@@ -45,13 +45,7 @@
         <hr>
         <!-- Post Content -->
         <p>Merupakan bentuk apresiasi kepada wisatawan / pelanggan Kampoeng Batik Laweyan dengan pemberian voucher belanja produk batik di toko / showroom Kampoeng Batik Laweyan. Kegiatan ini akan berlangsung selama 1 (satu) bulan yang disetiap malam minggu akan ada special event night sale sampai jam 22.00 WIB.</p>
-        <p>Voucher belanja akan disediakan dalam 2 jumlah nominal serta penggunaan yang berbeda, yaitu:</p>
-        <p>
-          <ul>
-            <li>Voucher belanja dengan nilai Rp. 100.000 yang dapat digunakan wisatawan/pelanggan untuk pembelian produk batik non tulis minimal Rp. 500.000 setiap transaksi.</li>
-            <li>Voucher belanja dengan nilai Rp. 200.000 yang dapat digunakan wisatawan / pelanggan untuk pembelian produk batik tulis minimal 2 potong setiap transaksi.</li>
-          </ul>
-        </p>
+        <p><b><i>Voucher belanja disediakan dalam jumlah nominal Rp. 125.000 / lembar yang berlaku untuk transaksi minimal Rp. 500.000 dan berlaku kelipatannya.</i></b></p>
         <p>Pendistribusian voucher akan berkerjasama dengan Hotel berbintang, komunitas, perbankan, korporasi swasta, BUMN, Kantor Pemerintah, dll dengan target penyebaran > 10.000 voucher.</p>
         <p>Hasil yang diharapkan dalam kegiatan ini antara lain adalah:</p>
         <p>

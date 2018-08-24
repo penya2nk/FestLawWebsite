@@ -13,7 +13,7 @@
   <header id="home">
     <div id="home-slider" class="carousel slide carousel-fade" data-ride="carousel">
       <div class="carousel-inner">
-        <div class="item active" style="background-image: url(<?php echo base_url(); ?>template/images/slider/slider-1.png)">
+        <div class="item active" style="background-image: url(<?php echo base_url(); ?>template/images/slider/slider-2.png)">
         </div>
       </div>
       <a id="tohash" href="#services"><i class="fa fa-angle-down" style="font-size:100px; color:#ef8522"></i></a>
@@ -58,7 +58,7 @@
         <div class="row">
           <!-- Cipta Kreasi -->
           <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-            <a href="<?php echo site_url("C_CiptaKreasi");?>">
+            <a href="<?php echo site_url("kegiatan/C_CiptaKreasi");?>">
               <div class="service-icon">
                 <i class="fa fa-gift"></i>
               </div>
@@ -71,7 +71,7 @@
           </div>
           <!-- Batik Ketitik -->
           <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="450ms">
-            <a href="<?php echo site_url("C_BatikKetitik");?>">
+            <a href="<?php echo site_url("kegiatan/C_BatikKetitik");?>">
               <div class="service-icon">
                 <i class="fa fa-star"></i>
               </div>
@@ -84,7 +84,7 @@
           </div>
           <!-- Laweyan Resik -->
           <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="550ms">
-            <a href="<?php echo site_url("C_ResikNyenengke");?>">
+            <a href="<?php echo site_url("kegiatan/C_ResikNyenengke");?>">
               <div class="service-icon">
                 <i class="fa fa-trash"></i>
               </div>
@@ -97,7 +97,7 @@
           </div>
           <!-- Miphik -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="650ms">
-            <a href="<?php echo site_url("C_MiphikLaweyan");?>">
+            <a href="<?php echo site_url("kegiatan/C_MiphikLaweyan");?>">
               <div class="service-icon">
                 <i class="fa fa-shopping-cart"></i>
               </div>
@@ -110,7 +110,7 @@
           </div>
           <!-- Nyanthing Nyenengke -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="750ms">
-            <a href="<?php echo site_url("C_NyanthingNyenengke");?>">
+            <a href="<?php echo site_url("kegiatan/C_NyanthingNyenengke");?>">
               <div class="service-icon">
                 <i class="fa fa-pencil"></i>
               </div>
@@ -123,7 +123,7 @@
           </div>
           <!-- Kawah Condrodimuko -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="850ms">
-            <a href="<?php echo site_url("C_KawahCondrodimuko");?>">
+            <a href="<?php echo site_url("kegiatan/C_KawahCondrodimuko");?>">
               <div class="service-icon">
                 <i class="fa fa-music"></i>
               </div>
@@ -136,7 +136,7 @@
           </div>
           <!-- Lensa Laweyan -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="950ms">
-            <a href="<?php echo site_url("C_LensaLaweyan");?>">
+            <a href="<?php echo site_url("kegiatan/C_LensaLaweyan");?>">
               <div class="service-icon">
                 <i class="fa fa-image"></i>
               </div>
@@ -149,7 +149,7 @@
           </div>
           <!-- Rolasan Bareng Laweyan Wareg -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1000ms">
-            <a href="<?php echo site_url("C_RolasanWareg");?>">
+            <a href="<?php echo site_url("kegiatan/C_RolasanWareg");?>">
               <div class="service-icon">
                 <i class="fa fa-cutlery"></i>
               </div>
@@ -162,7 +162,7 @@
           </div>
           <!-- Jagongan Laweyan -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1150ms">
-            <a href="<?php echo site_url("C_JagonganLaweyan");?>">
+            <a href="<?php echo site_url("kegiatan/C_JagonganLaweyan");?>">
               <div class="service-icon">
                 <i class="fa fa-microphone"></i>
               </div>
@@ -175,7 +175,7 @@
           </div>
           <!-- Fashion -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1250ms">
-            <a href="<?php echo site_url("C_FashionStreet");?>">
+            <a href="<?php echo site_url("kegiatan/C_FashionStreet");?>">
               <div class="service-icon">
                 <i class="fa fa-road"></i>
               </div>
@@ -188,7 +188,7 @@
           </div>
           <!-- Laweyan Waras -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1350ms">
-            <a href="<?php echo site_url("C_LaweyanWaras");?>">
+            <a href="<?php echo site_url("kegiatan/C_LaweyanWaras");?>">
               <div class="service-icon">
                 <i class="fa fa-heartbeat"></i>
               </div>
@@ -201,7 +201,7 @@
           </div>
           <!-- Dolanan Laweyan -->
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1450ms">
-            <a href="<?php echo site_url("C_DolananLaweyan");?>">
+            <a href="<?php echo site_url("kegiatan/C_DolananLaweyan");?>">
               <div class="service-icon">
                 <i class="fa fa-futbol-o"></i>
               </div>
@@ -214,7 +214,7 @@
           </div>
           <!-- Laweyan Award -->
           <div class="col-sm-12 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1550ms">
-            <a href="<?php echo site_url("C_LaweyanAward");?>">
+            <a href="<?php echo site_url("kegiatan/C_LaweyanAward");?>">
               <div class="service-icon">
                 <i class="fa fa-trophy"></i>
               </div>
@@ -259,7 +259,7 @@
       <div class="row">
         <div class="heading text-center col-sm-8 col-sm-offset-2 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
           <h2>Galeri FESTIVAL LAWEYAN</h2>
-          <p>Dokumentasi kegiatan FESTIVAL LAWEYAN pada tahun sebelumnya. Untuk dokumentasi yang lebih lengkap dapat dilihat di  <a href="https://www.facebook.com/festival.laweyan/photos/" target="_blank">Fanspage FESTIVAL LAWEYAN</a></p>
+          <p>Dokumentasi selama kegiatan FESTIVAL LAWEYAN 2018. Untuk dokumentasi yang lebih lengkap dapat dilihat di  <a href="https://www.facebook.com/festival.laweyan/photos/" target="_blank">Fanspage FESTIVAL LAWEYAN</a></p>
         </div>
       </div>
     </div>
@@ -268,17 +268,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="300ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/portfolio/1.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-01.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Opening Ceremony</h3>
-                    <p>Bapak Walikota Surakarta, FX. Hadi Rudyatmo, sedang menyanting di kain mori sebagai penanda pembukaan Festival Laweyan 2017.</p>
+                    <h3>Laweyan Resik Laweyan Nyenengke</h3>
+                    <p>Kepala Kelurahan Laweyan sedang melakukan penjurian Lomba Hias Kampung.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/1.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/bs-resiknyenengke-01.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -288,17 +288,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="400ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/portfolio/2.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-02.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Selawenan Sarasehan Budaya</h3>
-                    <p>Hasil karya persembahan dari pantomim.</p>
+                    <h3>Laweyan Resik Laweyan Nyenengke</h3>
+                    <p>Foto bersama di daerah RT 2 Kelurahan Laweyan.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/2.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-02.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -308,17 +308,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="500ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/portfolio/3.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-03.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Membatik Bersama Walikota</h3>
-                    <p>Hasil karya membatik oleh Bapak Wakil Walikota Surakarta, Achmad Purnomo.</p>
+                    <h3>Laweyan Resik Laweyan Nyenengke</h3>
+                    <p>Salah satu sudut lanscape Kampoeng Batik Laweyan.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/3.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-03.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -328,17 +328,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="600ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/portfolio/4.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-04.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Belajar Membatik</h3>
-                    <p>Ibu-ibu turut serta dalam belajar membatik bersama.</p>
+                    <h3>Laweyan Resik Laweyan Nyenengke</h3>
+                    <p>Berjalan menyusuri sudut-sudut Kampoeng Batik Laweyan.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/4.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-04.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -348,17 +348,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="700ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/portfolio/5.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-05.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Ngadi Busana Jawi</h3>
-                    <p>Pak Agus Efendi sedang memberikan pelatihan Ngadi Busana Jawi Ing Pahargyan.</p>
+                    <h3>Laweyan Resik Laweyan Nyenengke</h3>
+                    <p>Salah satu sudut Kampoeng Batik Laweyan yang penuh dengan hiasan batik.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/5.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-05.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -368,17 +368,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="800ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/portfolio/6.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-06.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Jalan Sehat</h3>
-                    <p>Warga Laweyan dan sekitarnya berjalan bersama-sama menyusuri Kampoeng Batik Laweyan.</p>
+                    <h3>Laweyan Resik Laweyan Nyenengke</h3>
+                    <p>Salah satu sudut Kampoeng Batik Laweyan yang penuh dengan hiasan batik.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/6.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/bs-resiknyenengke-06.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -388,17 +388,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="900ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/portfolio/7.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-07.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Closing Ceremony</h3>
-                    <p>Batik Fashion digelar dengan memperkenalkan batik khas Kampoeng Batik Laweyan.</p>
+                    <h3>Laweyan Resik Laweyan Nyenengke</h3>
+                    <p>Kain batik motif ayat suci Al-Qur'an.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/7.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-07.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -408,17 +408,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="1000ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/portfolio/8.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-08.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
-                    <h3>Closing Ceremony</h3>
-                    <p>Menyoret abstrak sebagai upacara simbolis bahwa Festival Laweyan 2017 telah selesai.</p>
+                    <h3>Laweyan Resik Laweyan Nyenengke</h3>
+                    <p>Kain batik motif ayat suci Al-Qur'an.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/portfolio/8.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-08.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -444,7 +444,7 @@
         <div class="contact-form wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
           <div class="row">
             <div class="col-sm-6">
-              <form id="main-contact-form" name="contact-form" method="post" action="#">
+              <!-- <form id="main-contact-form" name="contact-form" method="post" action=<?php //site_url("C_index/send_email") ?>> -->
                 <div class="row  wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                   <div class="col-sm-6">
                     <div class="form-group">
@@ -464,9 +464,10 @@
                   <textarea name="message" id="message" class="form-control" rows="4" placeholder="Enter your message" required="required"></textarea>
                 </div>
                 <div class="form-group">
-                  <button type="submit" class="btn-submit">Send</button>
+                  <!-- <button type="submit" class="btn-submit">Send</button> -->
+                  <a type="button" class="btn-submit" href="mailto:festivallaweyan2018@gmail.com" target="_blank" style="text-align: center;">Send</a>
                 </div>
-              </form>
+              <!-- </form> -->
             </div>
             <div class="col-sm-6">
               <div class="contact-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
@@ -539,7 +540,7 @@
   }, 1000);
   </script>
   <script type="text/javascript" src="<?php echo base_url(); ?>template/js/jquery.js"></script>
-  <script type="<?php echo base_url(); ?>template/text/javascript" src="<?php echo base_url(); ?>template/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="<?php echo base_url(); ?>template/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
   <script type="text/javascript" src="<?php echo base_url(); ?>template/js/jquery.inview.min.js"></script>
   <script type="text/javascript" src="<?php echo base_url(); ?>template/js/wow.min.js"></script>

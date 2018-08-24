@@ -109,6 +109,7 @@
             <li>Hadiah hiburan (tentatif).</li>
           </ol>
         </p>
+        <a style="text-align:center;" href="<?php echo site_url("galeri/Cph_ResikNyenengke");?>" class="btn btn-info" role="button">Lihat Foto Acara</a>
         <hr>
       </div>
     </div>
