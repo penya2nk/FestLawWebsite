@@ -25,6 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $config['base_url'] = 'http://localhost/FestLawWebsite/';
 // $config['base_url'] = 'http://festivallaweyan.com/';
+// $config['base_url'] = strpos($_SERVER['HTTP_HOST'], 'http://festivallaweyan.com/') !== FALSE ? 'http://festivallaweyan.com/' : 'http://www.festivallaweyan.com/';
 
 /*
 |--------------------------------------------------------------------------

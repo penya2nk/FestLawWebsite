@@ -268,17 +268,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="300ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-01.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-01.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
                     <h3>Laweyan Resik Laweyan Nyenengke</h3>
-                    <p>Kepala Kelurahan Laweyan sedang melakukan penjurian Lomba Hias Kampung.</p>
+                    <p>Berjalan menyusuri sudut-sudut Kampoeng Batik Laweyan, Solo.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/bs-resiknyenengke-01.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/bs2-resiknyenengke-01.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -288,17 +288,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="400ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-02.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-02.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
                     <h3>Laweyan Resik Laweyan Nyenengke</h3>
-                    <p>Foto bersama di daerah RT 2 Kelurahan Laweyan.</p>
+                    <p>Para dewan juri dari Kecamatan, Dinas Pariwisata Solo, dan Kominfo.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-02.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-02.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -308,17 +308,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="500ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-03.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-03.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
                     <h3>Laweyan Resik Laweyan Nyenengke</h3>
-                    <p>Salah satu sudut lanscape Kampoeng Batik Laweyan.</p>
+                    <p>Foto bersama para perangkat kampung yaitu RT/RW.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-03.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-03.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -328,17 +328,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="600ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-04.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-04.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
                     <h3>Laweyan Resik Laweyan Nyenengke</h3>
-                    <p>Berjalan menyusuri sudut-sudut Kampoeng Batik Laweyan.</p>
+                    <p>Foto bersama warga Kampoeng Batik Laweyan Solo.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-04.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-04.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -348,17 +348,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="700ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-05.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-05.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
                     <h3>Laweyan Resik Laweyan Nyenengke</h3>
-                    <p>Salah satu sudut Kampoeng Batik Laweyan yang penuh dengan hiasan batik.</p>
+                    <p>Foto bersama warga Kampoeng Batik Laweyan Solo.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-05.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-05.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -368,17 +368,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="800ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-06.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-06.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
                     <h3>Laweyan Resik Laweyan Nyenengke</h3>
-                    <p>Salah satu sudut Kampoeng Batik Laweyan yang penuh dengan hiasan batik.</p>
+                    <p>Menyantap hidangan yang telah disediakan.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/bs-resiknyenengke-06.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-06.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -388,17 +388,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="900ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-07.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-07.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
                     <h3>Laweyan Resik Laweyan Nyenengke</h3>
-                    <p>Kain batik motif ayat suci Al-Qur'an.</p>
+                    <p>Foto bersama warga Kampoeng Batik Laweyan Solo.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-07.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-07.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -408,17 +408,17 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="1000ms">
             <div class="folio-image">
-              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-08.jpg" alt="">
+              <img class="img-responsive" src="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-08.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
                 <div class="overlay-text">
                   <div class="folio-info">
                     <h3>Laweyan Resik Laweyan Nyenengke</h3>
-                    <p>Kain batik motif ayat suci Al-Qur'an.</p>
+                    <p>Foto bersama warga Kampoeng Batik Laweyan Solo.</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc-resiknyenengke-08.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="<?php echo base_url(); ?>template/images/galeri/resiknyenengke/kc2-resiknyenengke-08.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
